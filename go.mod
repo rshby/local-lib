@@ -1,3 +1,3 @@
-module github.com/rshby/local-lib
+module local-lib
 
 go 1.22.1
